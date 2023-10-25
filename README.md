@@ -1,2 +1,2 @@
 # DIGITAL-MUSIC-STORE-ANALYSIS
-This is a SQL end to end project
+SQL project to analyze online music store data
